@@ -1,2 +1,0 @@
-# special-funicular
-new description
